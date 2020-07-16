@@ -1,3 +1,8 @@
+#E-mail and Passwords
+Email:ali.adel20120@gmail.com , password:1234
+Email:Haimenth@gmail.com , password:4567
+Email:joe@gmail.com ,password:78910
+
 # Login
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
