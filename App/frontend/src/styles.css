@@ -1,0 +1,37 @@
+body{
+    background-color: #272727;
+    color: white;
+}
+.submit-err{
+    padding: 5px;
+    border-top: 2px red solid;
+}
+.regform{
+    position: absolute;
+    right: 20px;
+    top: 120px;
+}
+.vertline{
+  border-left: 1px solid white;
+  height: 500px;
+  position: absolute;
+  left: 46%;
+  margin-left: -3px;
+  top: 18%;
+}
+.regButton{
+    background-image: linear-gradient(to bottom right,#D9298A,
+    #BF2C98,
+    #9832A6,
+    #7C39BF,
+    #3E39BF);
+    width: 450px;
+    position: relative;
+    left : 8%
+}
+.loginButton{
+    position: absolute;
+    right: 20px;
+    top: 30px;
+    width: 300px;
+  }
