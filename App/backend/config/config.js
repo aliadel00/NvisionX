@@ -3,7 +3,7 @@ const env = process.env.NODE_ENV || 'development';
 //CONFIGURATION FOR DEV ENVIRONMENT
 const development = {
     DATABASE_CONFIG: {
-        url: 'mongodb+srv://ali:Hashish20@cluster0.bwgia.mongodb.net/RegistrationData?retryWrites=true&w=majority',
+        url: 'mongodb+srv://*****@cluster0.bwgia.mongodb.net/*****?retryWrites=true&w=majority',
         database: 'RegstirationData'
     },
     PORT: 8000
